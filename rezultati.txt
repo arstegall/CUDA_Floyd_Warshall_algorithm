@@ -1,0 +1,2 @@
+CPU timing za sve je bio 35.314 sekundi, a GPU timing(ukljucujuci sve operacije memorije uredjaja - alokacija, kopije itd, za sve je bio 0.025 sekundi.
+GPU rezultat je bio 1412.56 puta brzi nego CPU rezultat.

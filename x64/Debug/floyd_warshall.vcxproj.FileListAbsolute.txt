@@ -1,0 +1,2 @@
+C:\Users\ivan.modric\source\repos\floyd_warshall\x64\Debug\floyd_warshall.exe
+C:\Users\ivan.modric\source\repos\floyd_warshall\x64\Debug\floyd_warshall.pdb
